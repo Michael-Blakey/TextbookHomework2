@@ -1,3 +1,11 @@
+
+/**
+ * Class Name: Cylinder
+ * Author: Michael Blakey
+ * Version: 1.0
+ * Course: ITEC 2140 Section 01 Spring 2023
+ * Date:  February 7, 2023
+ */
 import java.util.Scanner;
 public class Cylinder {
 
